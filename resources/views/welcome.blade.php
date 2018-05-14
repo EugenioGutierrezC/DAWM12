@@ -24,6 +24,11 @@
                 height: 100vh;
                 margin: 0;
             }
+            
+            #logo{
+                height: 8vh;
+                width: 15vh
+            }
 
             .full-height {
                 height: 100vh;
